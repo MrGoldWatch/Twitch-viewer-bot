@@ -2,6 +2,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [Discord](https://discord.gg/AFV9m8UXuT)ㅤ[Github](https://github.com/Kichi779)
 
+### MAC OS: FOLLOW https://www.swtestacademy.com/install-chrome-driver-on-mac/ TO INSTALL CHROMEDRIVER
 
 ### No need for a proxy. ⚠️
 ### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐
