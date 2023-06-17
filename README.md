@@ -3,6 +3,7 @@
 [Discord](https://discord.gg/AFV9m8UXuT)ㅤ[Github](https://github.com/Kichi779)
 
 ### MAC OS: FOLLOW https://www.swtestacademy.com/install-chrome-driver-on-mac/ TO INSTALL CHROMEDRIVER
+
 #### ⚠️ chromdriver error1 -> https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/
 ### No need for a proxy. ⚠️
 ### Please leave a star for the project. This project is free and open source. ⭐ You can leave a star from the top right. ⭐
